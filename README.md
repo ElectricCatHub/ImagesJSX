@@ -1,2 +1,2 @@
-# ImagesJSX
+# JSXCodeChallenge
 Created with CodeSandbox

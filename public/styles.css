@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.heading {
+color: red;
+}
+
+.images {
+  height: 100px;
+  width: 100px;
+}
